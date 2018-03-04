@@ -17,8 +17,6 @@ public class Main {
         bald.killAnimal(kek);
         bald.eat(6);
         bald.die();
-        System.out.println(bald.getDead());
-
     }
 
     public static void simpleCount(int n) {
